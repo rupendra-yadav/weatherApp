@@ -5,9 +5,9 @@ import 'package:weather_app/hourly_info.dart';
 import 'package:http/http.dart' as http;
 // import 'package:weather_app/secrets.dart';
 
-var api1 = '670cff6a51ee39f41d890572152109c0';
-var api2 = 'd67eb7c5372131da865c583620fe15ea';
-// http://api.openweathermap.org/data/2.5/forecast?q=London,uk&APPID=670cff6a51ee39f41d890572152109c0
+var api1 = '';
+var api2 = '';
+
 
 class MainPanel extends StatefulWidget {
   const MainPanel({super.key});
